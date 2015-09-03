@@ -1,0 +1,17 @@
+<html>
+	<header> 
+		<!-- Latest compiled and minified CSS --> 
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	</header> 
+
+	<ul>
+		<li>spring</li>
+			<dd>- Spring is when the world turns green. </dd>
+		<li>summer</li>
+			<dd>- Summer will make you want to eat icecream all day. </dd>
+		<li>fall</li>
+			<dd>- Fall brings football and all things pumpkin flavored. </dd>
+		<li>Winter</li>
+			<dd>- Winter tastes like hot chocolate with marshmellows and candy canes. </dd>
+	</ul> 
+</html>
