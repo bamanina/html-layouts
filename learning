@@ -36,4 +36,35 @@
 	  </ul>
 	</div><!--/.navcollapse-->
       </div>
-    </nav>	
+    </nav>
+    		<div class="container">
+    			<div class="page-header top-buffer">
+      <h1>Lists</h1>
+    </div>
+    <div class="row">
+    <div class="col-sm-4">
+      <ul class="list-group">
+        <li "list-group-item">spring
+        						<dd>- Spring is when everything turns green.</dd></li>
+        					<li "list-group-item">summer
+        					 	<dd>- Summer will make you want to eat ice cream all day.</dd></li>
+        				        <li "list-group-item">fall
+        				        	<dd>- Fall brings football and all things pumpkin flavored.</dd></li>
+        				        <li "list-group-item">winter
+        				                <dd>- Winter tastes like hot chocoalte with marshmellows and candy canes.</dd></li>
+        				  </ul>    
+        			</div>
+        			
+        			<p>
+        	<button type="button" class="btn btn-lg btn-default">Default</button>
+        	<button type="button" class="btn btn-lg btn-primary">Primary</button>
+        	<button type="button" class="btn btn-lg btn-success">Success</button>
+        	<button type="button" class="btn btn-lg btn-info">Info</button>
+        	<button type="button" class="btn btn-lg btn-warning">Warning</button>
+        	<button type="button" class="btn btn-lg btn-danger">Danger</button>
+        	<button type="button" class="btn btn-lg btn-link">Link</button>
+       </p>
+       			
+       			</div>
+       		</div>	
+        						
